@@ -1,0 +1,10 @@
+------------------------------------------------------
+Version  : 0.0.1
+Branch   : release/v_0.0.1
+Date     : 16/Nov/2024
+Changes  :
+         - Basic game app
+            - Include Genetom chess engine 
+            - Included Match Match
+
+------------------------------------------------------
